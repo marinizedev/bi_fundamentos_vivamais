@@ -1,38 +1,51 @@
 # Mini-Projeto de Business Intelligence — VivaMais
 
-## Visão Geral
+## Descrição
 
-Este repositório apresenta um **mini-projeto conceitual de Business Intelligence**, desenvolvido como resultado dos estudos iniciais a partir de **e-books especializados em BI**, fornecidos pelo professor **Alan**.
+Este mini-projeto apresenta um **estudo teórico e conceitual de Business Intelligence (BI)** aplicado a um cenário realista de negócio: o supermercado fictício **VivaMais**.
 
-O projeto **não é trabalho acadêmico** e **não utiliza ferramentas de BI**.
-Seu foco é **compreender o negócio e os conceitos fundamentais** que antecedem qualquer implementação técnica.
+O objetivo é demonstrar a **compreensão dos fundamentos de BI antes da implementação em ferramentas**, abordando conceitos essenciais como **modelagem dimensional, definição de grão, tabelas fato e dimensões**, sempre conectando a teoria a um contexto prático.
 
-O cenário escolhido é um **supermercado fictício (VivaMais)**, usasdo como base para aplicar os conceitos de forma prática e contextualizada.
+Este projeto representa a **fase inicial de análise e planejamento**, etapa fundamnetal em projetos de dados bem estruturados.
 
 ---
 
 ## Objetivo do Projeto
 
-• Consolidar fundamnetos de **Business Intelligence**
-• Praticar o raciocínio analítico antes da parte técnica
-• Entender como um negócio se transforma em um modelo analítico
-• Criar base conceitual para certificações como **Microsoft DP-900**
+• Consolidar fundamentos de **Business Intelligence**
+• Aplicar conceitos teóricos em um **cenário de negócio realista**
+• Identificar:
+    • Tabela fato
+    • Tabelas dimensão
+    • Grão do modelo
+• Desenvolver o reciocínio analítico **antes do uso de ferramentas de BI**
+• Servir como base conceitual para projetos futuros mais avançados
 
 ---
 
-## Conceitos Abordados
+## Contexto do Negócio
 
-• O que é Business Intelligence
-• Entendimento do negócio e do problema analítico
+O cenário utilizado é o **Supermercado VivaMais**, um projeto fictício criado para simular necessidades reais de análise de dados, como:
+
+• acompanhamento de vendas
+• entendimento do comportamento do cliente
+• organização de dados para tomada de decisão
+
+Todos os conceitos apresentados são contextualizados nesse ambiente para facilitar a compreensão prática.
+
+---
+
+## Conteúdos Abordados
+
+• Fundamentos de Business Intelligence
 • Modelagem Dimensional
-• Definição de:
-    • **Tabela Fato**
-    • **Tabelas Dimensão**
-    • **Grão**
-• Aplicação dos conceito em um cenário realista (VivaMais)
+• Conceito de Grão
+• Tabela Fato
+• Tabela Dimensão
+• Visão analítica orientada ao negócio
 
 ### Observação:
-Este projeto é **100% conceitual**. Não há uso de banco de dados, SQL ou ferramentas de BI nesta etapa.
+Este projeto é propositalmente teórico e introdutório, focado na base coneitual que antecede a implementação técnica.
 
 ## Estrutura do Repositório
 
@@ -41,29 +54,19 @@ Este projeto é **100% conceitual**. Não há uso de banco de dados, SQL ou ferr
 
 ## Próximos Passos
 
-Este projeto serve como **base conceitual** para evoluções futuras, como:
+• Evoluir o projeto para uma **implementação prática**
+• Aplicar os conceitos em:
+    • SQL
+    • Modelagem física
+    • Ferramentas de BI
+• Utilizar este estudo como base para projetos mais robustos e profissionais
 
-• Implementação em banco de dados
-• Criação de tabelas fato e dimensão em SQL
-• Uso de ferramentas de BI
-• Projetos alinhados à certificação **DP-900**
-
-## Contexto de Aprendizado
-
-Este mini-projeto faz parte de uma jornada de estudos contínua em:
-
-• Banco de Dados
-• Modelagem Dimensional
-• Business Intelligence
-• Análise de Dados
+---
 
 ## Autora
 
 **Marinize Santana**
 Estudante de Análise e Desenvolvimento de Sistemas
-Foco em Banco de Dados, SQL, Modelagem Dimensional, BI e Back-end
+Foco em **Banco de Dados, SQL, Business Intelligence, Modelagem Dimensional e Back-end**
 
-## Quer contribuir?
-
-Sugestões, observações e dicas são muito bem-vindas!
-Sigo firme, **um passo de cada vez**, rumo a horizontes cada vez maiores.
+Portfólio em construção — cada projeto representa um passo sólido na minha evolução na área de dados.

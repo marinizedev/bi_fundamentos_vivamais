@@ -6,7 +6,7 @@ Este mini-projeto apresenta um **estudo teórico e conceitual de Business Intell
 
 O objetivo é demonstrar a **compreensão dos fundamentos de BI antes da implementação em ferramentas**, abordando conceitos essenciais como **modelagem dimensional, definição de grão, tabelas fato e dimensões**, sempre conectando a teoria a um contexto prático.
 
-Este projeto representa a **fase inicial de análise e planejamento**, etapa fundamnetal em projetos de dados bem estruturados.
+Este projeto representa a **fase inicial de análise e planejamento**, etapa fundamental em projetos de dados bem estruturados.
 
 ---
 
@@ -18,7 +18,7 @@ Este projeto representa a **fase inicial de análise e planejamento**, etapa fun
     - Tabela fato
     - Tabelas dimensão
     - Grão do modelo
-- Desenvolver o reciocínio analítico **antes do uso de ferramentas de BI**
+- Desenvolver o raciocínio analítico **antes do uso de ferramentas de BI**
 - Servir como base conceitual para projetos futuros mais avançados
 
 ---
@@ -45,12 +45,12 @@ Todos os conceitos apresentados são contextualizados nesse ambiente para facili
 - Visão analítica orientada ao negócio
 
 ### Observação:
-Este projeto é propositalmente teórico e introdutório, focado na base coneitual que antecede a implementação técnica.
+Este projeto é propositalmente teórico e introdutório, focado na base conceitual que antecede a implementação técnica.
 
 ## Estrutura do Repositório
 
 - README.md -> documentação do projeto
-- Arquivo.md -> conteúdo teórico do mini-projeto
+- fundamentos_bi.md -> conteúdo teórico do mini-projeto
 
 ## Próximos Passos
 

@@ -4,7 +4,7 @@
 
 Este mini-projeto apresenta um **estudo teórico e conceitual de Business Intelligence (BI)** aplicado a um cenário realista de negócio: o supermercado fictício **VivaMais**.
 
-O objetivo é demonstrar a **compreensão dos fundamentos de BI antes da implementação em ferramentas**, abordando conceitos essenciais como **modelagem dimensional, definição de grão, tabelas fato e dimensões**, sempre conectando a teoria a um contexto prático.
+O objetivo é demonstrar a **compreensão dos fundamentos de BI antes da implementação em ferramentas**, abordando conceitos essenciais como **modelagem dimensional, definição de grão, tabelas fato e dimensões**, sempre conectando a teoria a um contexto prático de negócio.
 
 Este projeto representa a **fase inicial de análise e planejamento**, etapa fundamental em projetos de dados bem estruturados.
 
@@ -18,7 +18,7 @@ Este projeto representa a **fase inicial de análise e planejamento**, etapa fun
     - Tabela fato
     - Tabelas dimensão
     - Grão do modelo
-- Desenvolver o raciocínio analítico **antes do uso de ferramentas de BI**
+- Desenvolver o **raciocínio analítico** antes do uso de ferramentas de BI
 - Servir como base conceitual para projetos futuros mais avançados
 
 ---
@@ -29,7 +29,7 @@ O cenário utilizado é o **Supermercado VivaMais**, um projeto fictício criado
 
 - acompanhamento de vendas
 - entendimento do comportamento do cliente
-- organização de dados para tomada de decisão
+- organização de dados para apoio à tomada de decisão
 
 Todos os conceitos apresentados são contextualizados nesse ambiente para facilitar a compreensão prática.
 
@@ -45,12 +45,14 @@ Todos os conceitos apresentados são contextualizados nesse ambiente para facili
 - Visão analítica orientada ao negócio
 
 ### Observação:
-Este projeto é propositalmente teórico e introdutório, focado na base conceitual que antecede a implementação técnica.
+Este projeto é propositalmente **teórico e introdutório**, com foco na base conceitual que antecede a implementação técnica em ferramentas de BI.
 
 ## Estrutura do Repositório
 
-- README.md -> documentação do projeto
-- fundamentos_bi.md -> conteúdo teórico do mini-projeto
+- `README.md` -> documentação geral do projeto
+- `fundamentos_bi.md` -> conteúdo teórico completo do mini-projeto
+
+---
 
 ## Próximos Passos
 
@@ -58,8 +60,8 @@ Este projeto é propositalmente teórico e introdutório, focado na base conceit
 - Aplicar os conceitos em:
     - SQL
     - Modelagem física
-    - Ferramentas de BI
-- Utilizar este estudo como base para projetos mais robustos e profissionais
+    - Ferramentas de Business Intelligence
+- Utilizar este estudo como base para projetos mais robustos e profissionais na área de dados
 
 ---
 
@@ -67,6 +69,12 @@ Este projeto é propositalmente teórico e introdutório, focado na base conceit
 
 **Marinize Santana**
 Estudante de Análise e Desenvolvimento de Sistemas
-Foco em **Banco de Dados, SQL, Business Intelligence, Modelagem Dimensional e Back-end**
 
-Portfólio em construção — cada projeto representa um passo sólido na minha evolução na área de dados.
+Interesse e foco em:
+- Banco de Dados
+- SQL
+- Business Intelligence
+- Modelagem Dimensional
+- Back-end
+
+Portfólio em construção — cada projeto representa um passo consistente na minha evolução na área de dados.
